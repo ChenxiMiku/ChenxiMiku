@@ -1,32 +1,35 @@
-# 👋 Hi, I'm Chen Xi
+# Hi 👋, I'm Chen Xi [CloudMiku]
 
-Welcome to my GitHub profile! I'm passionate about **cloud services**, **high-concurrency payment systems**, **machine learning**, and **AI model optimization**. I love diving deep into cutting-edge technologies and building practical solutions.
+### A passionate developer from 🇨🇳
 
-## 🔧 Technologies & Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
+</p>
 
-- **Languages**: Java, Go, Python, SQL, JavaScript
-- **Frameworks**: Spring Cloud, Laravel, Vue.js, XGBoost, TensorFlow, PyTorch
-- **Tools**: Docker, Kubernetes, NGINX, Git, CI/CD, RocketMQ, Nacos
-- **Databases**: MySQL, PostgreSQL, Oracle SQL
-- **Cloud**: AWS, GCP, Azure
-- **Others**: eSIM, Blockchain, GIS
+## 🌟 About Me
+- 🛠️ I’m currently working on: **MaiMaiQueue** - A queue management system designed for Maimaidx to streamline player queuing during gameplay
+- 🎓 I’m currently learning: **Transformer**, **Pytorch**, **Go**
+- 💬 Ask me about: **Python**, **Maching Learning**, **Sprint Boot**
 
-## 🚀 Projects
+## 🔧 Languages and Tools
 
-### CloudMiku
-- **Description**: High-speed, stable, and cost-effective network relay service platform.
-- **Tech Stack**: Go, Java, Spring Cloud, RocketMQ, MySQL.
-- **Role**: Full-stack development and architecture design.
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
 
-### AirMiku
-- **Description**: Cloud service platform offering infrastructure upgrades and app development for PC and Android.
-- **Tech Stack**: Kubernetes, Docker, Cloud Deployment, API integration.
-- **Role**: System architecture and development lead.
-
-### Titanic Prediction (Machine Learning)
-- **Description**: Improved Titanic dataset prediction accuracy using XGBoost, feature engineering, and ensemble methods.
-- **Tech Stack**: Python, Pandas, XGBoost, Scikit-learn
-- **Role**: Model training and performance optimization.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>
 
 ## 📚 Education
 - **Bachelor's Degree** in Information Management and Information Systems
@@ -38,12 +41,4 @@ Welcome to my GitHub profile! I'm passionate about **cloud services**, **high-co
 - Working on improving **blockchain** understanding with a focus on **DeFi** and **security**.
 
 ## 🌍 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/chenxi)
-- [Twitter](https://twitter.com/chenxi)
-- [Email](mailto:chenxi@example.com)
-
-### 🛠️ Open Source Contributions
-I actively contribute to open-source projects and am always open to collaborating on interesting projects. Feel free to check out my repositories or start a discussion!
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+- [Email](mailto:chenximiku@cloudmiku.com)
