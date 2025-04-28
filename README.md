@@ -9,8 +9,8 @@
 - 🎓 I’m currently learning: **Transformer**, **Pytorch**, **Go**
 - 💬 Ask me about: **Python**, **Maching Learning**, **Sprint Boot**
 - 📫 How to reach me: [chenximiku@cloudmiku.com](mailto:chenximiku@cloudmiku.com)
-- ⚡ Fun fact: I love **maimaiDX** and **Chunithm**!
-- 💻 I’m looking for a **full-time job** in **AI** or **Full Stack Development**.
+- ⚡ Fun fact: I love **maimaiDX** and **CHUNITHM**!
+- 💻 I’m looking for a **part-time job** in **AI** or **Full Stack Development**.
 
 ## 🔧 Languages and Tools
 
