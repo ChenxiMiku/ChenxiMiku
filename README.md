@@ -6,11 +6,10 @@
 
 ## 🌟 About Me
 - 🛠️ I’m currently working on: **MaiMaiQueue** - A queue management system designed for Maimaidx to streamline player queuing during gameplay
-- 🎓 I’m currently learning: **Transformer**, **Pytorch**, **Go**
-- 💬 Ask me about: **Python**, **Maching Learning**, **Sprint Boot**
-- 📫 How to reach me: [chenximiku@cloudmiku.com](mailto:chenximiku@cloudmiku.com)
-- ⚡ Fun fact: I love **maimaiDX** and **CHUNITHM**!
-- 💻 I’m looking for a **part-time job** in **AI** or **Full Stack Development**.
+- 🎓 I’m currently learning: **Kubernetes**, **Maching Learning**, **Go**, **Queueing theory**
+- 📫 How to reach me: [ychw0423@outlook.com](mailto:ychw0423@outlook.com)
+- ⚡ Fun fact: I love **maimaiDX**!
+- 💻 I’m looking for a **part-time job** in **AI** or **Site Reliability Engineer**.
 
 ## 🔧 Languages and Tools
 
@@ -25,20 +24,13 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenximiku&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenximiku&theme=dark" alt="GitHub Streak" />
 </p>
